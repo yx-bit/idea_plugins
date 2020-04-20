@@ -28,3 +28,5 @@ java使用idea开发常用的插件
 - ### FindBugs-IDEA
 
 - ### JUnitGenerator 
+
+- ### Rainbow Brackets
