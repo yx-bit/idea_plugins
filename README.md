@@ -3,6 +3,8 @@ java使用idea开发常用的插件
 
 - ### Translation
 
+- ### Translate
+
 
 - ### RESTfulToolKit
 
@@ -30,3 +32,8 @@ java使用idea开发常用的插件
 - ### JUnitGenerator 
 
 - ### Rainbow Brackets
+
+- ### JDT AST
+- ### JavaParser AST Inspector
+- 
+- ### Statistic
