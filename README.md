@@ -34,6 +34,11 @@ java使用idea开发常用的插件
 - ### Rainbow Brackets
 
 - ### JDT AST
+
 - ### JavaParser AST Inspector
-- 
+
+- ### Key Promoter X
+
+- ### Presentaation Assistant
+
 - ### Statistic
