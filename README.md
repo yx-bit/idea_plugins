@@ -15,7 +15,7 @@ java使用idea开发常用的插件
 
 - ### MyBatis Log Plugin
 
-- ###SQL Params Setter
+- ### SQL Params Setter
 
 - ### Maven Helper
 
