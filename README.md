@@ -11,15 +11,20 @@ java使用idea开发常用的插件
 
 - ### MyBatisCodeHelperPro
 
+- ### Free Mybatis plugin
 
 - ### MyBatis Log Plugin
 
+- ###SQL Params Setter
 
 - ### Maven Helper
 
 
 - ### Lombok
 
+- ### java-visualizer
+
+- ### Codota/Tabnine
 
 - ### GenerateAllSetter
 
